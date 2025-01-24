@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimmallik786&show_icons=true&locale=en" alt="ibrahimmallik786" /></p>
 <p><a href="https://www.buymeacoffee.com/ Ibrahim Mallick"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" Ibrahim Mallick" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmallik786&" alt="ibrahimmallik786" /></p>
+
