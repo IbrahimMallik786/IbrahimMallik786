@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ibrahimmallik976@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-mallick92](https://www.linkedin.com/in/ibrahim-mallick92)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-mallick786](https://www.linkedin.com/in/ibrahim-mallick786)
 
 - ⚡ Fun fact **I am Funny 😎✌️**
 
