@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ibrahim-mallick92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-mallick92" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-mallick786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-mallick92" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimmallick_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimmallick_92" height="30" width="40" /></a>
 </p>
 
@@ -28,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimmallik786&show_icons=true&locale=en&layout=compact" alt="ibrahimmallik786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimmallik786&show_icons=true&locale=en" alt="ibrahimmallik786" /></p>
-<p><a href="https://www.buymeacoffee.com/ Ibrahim Mallick"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" Ibrahim Mallick" /></a></p><br><br>
+<br><br>
 
